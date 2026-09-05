@@ -1,6 +1,6 @@
 # PythonStatic
 
-A lightweight static site generator written in Python. It reads user-provided markdown files (in `content/`), and converts them to HTML pages (in `docs/`) and outputs a ready-to-serve static site — with no external dependencies beyond Python.
+A lightweight static site generator written in Python. It reads user-provided markdown files (in `content/`), and converts them to HTML pages (in `docs/`) and outputs a ready-to-serve static site — with no external dependencies beyond Python. Website deployed [here](https://rishit-gandash.github.io/PythonStatic/) via github pages.
 
 This project was build using the course from boot.dev.
 
