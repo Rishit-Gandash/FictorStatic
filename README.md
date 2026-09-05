@@ -1,4 +1,4 @@
-# PythonStatic
+# FictorStatic
 
 A lightweight static site generator written in Python. It reads user-provided markdown files (in `content/`), and converts them to HTML pages (in `docs/`) and outputs a ready-to-serve static site — with no external dependencies beyond Python. Website deployed [here](https://rishit-gandash.github.io/PythonStatic/) via github pages.
 
@@ -15,7 +15,7 @@ The markdown pages follow strict syntax. All blocks (quotes, paragraphs etc.) mu
 ## Project structure
 
 ```
-PythonStatic/
+FictorStatic/
 ├── content/          # Source Markdown files
 ├── docs/             # Generated HTML output (served or deployed)
 ├── src/              # Python source code
@@ -41,7 +41,7 @@ This runs the generator and then starts a local HTTP server at `http://localhost
 ./build.sh
 ```
 
-Equivalent to running `python3 src/main.py "/PythonStatic/"` directly.
+Equivalent to running `python3 src/main.py "/FictorStatic/"` directly.
 
 ### Run tests
 
