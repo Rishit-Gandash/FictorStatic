@@ -8,7 +8,7 @@ This project was build using the course from boot.dev.
 
 ## Demonstration Video
 
-![Demonstration](https://cdn.discordapp.com/attachments/823443534124154910/1546021384986042429/demonstration.mp4?ex=6a9e441d&is=6a9cf29d&hm=28c072e4dae4834a4fe0ab7ba8b5b351a4b07627b09c188a2e172fe8631afd7e&)
+https://youtu.be/YJsCVBFSbLg
 
 ## How it works
 
