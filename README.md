@@ -6,6 +6,10 @@ A lightweight static site generator written in Python. It reads user-provided ma
 
 This project was build using the course from boot.dev.
 
+## Demonstration Video
+
+![Demonstration](./demonstration.mp4)
+
 ## How it works
 
 The generator reads source content from the `content/` directory, processes each file through a custom Markdown-to-HTML parser, and injects the result into `template.html` using `{{ Title }}` and `{{ Content }}` placeholders. The finished pages are written to the `docs/` directory, which can then be served directly or deployed to any static hosting provider.
