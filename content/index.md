@@ -1,46 +1,30 @@
-# Tolkien Fan Club
+# Rishit's Blog
 
-![JRR Tolkien sitting](/images/red-wedge.png)
+![Red Wedge](/images/red-wedge.jpg)
 
-Here's the deal, **I like Tolkien**.
-
-> "I am in fact a Hobbit in all but size."
+> "In the dark times, should the stars also go out?"
 >
-> -- J.R.R. Tolkien
+> -- Disco Elysium
 
-## Blog posts
+## About me
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+I am a 21 year old student from India studying CS. I am interested in web development, systems programming, modern literature, political theory, and writing.
 
-## Reasons I like Tolkien
+## About this website
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+This website is a glimpse into my Life-World. A small corner of my part in the Human Experiment, mainly consisting of my musings. It was statically generated from a markdown file with the help of Python, the code can be found [here](https://github.com/Rishit-Gandash/FictorStatic)!
 
-## My favorite characters (in order)
+## Blogs
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+- [Notes on the self](/blog/self)
+- More coming soon.
 
-Here's what `elflang` looks like (the perfect coding language):
+## Contact Me
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+If you wish to talk about any of my blogs, or anything at all, feel free to reach out!
 
-Want to get in touch? [Contact me here](/contact).
+I respond to my mails as soon as I see them, which is typically in a day or two.
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+Gmail: [rishikgandash@gmail.com](mailto:rishikgandash@gmail.com)
+
+My links can be found [here](/contact/). 

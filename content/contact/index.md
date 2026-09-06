@@ -1,9 +1,7 @@
-# Contact the Author
+## My Links
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
-
-`555-555-5555`
-
-**"Váya márië."**
+[GitHub](https://github.com/Rishit-Gandash)
+[Linkedin](https://www.linkedin.com/in/rishit-g/)
+[Boot.dev](https://www.boot.dev/u/rishit-gandash)
