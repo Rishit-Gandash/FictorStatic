@@ -8,7 +8,7 @@ This project was build using the course from boot.dev.
 
 ## Demonstration Video
 
-https://youtu.be/YJsCVBFSbLg
+[▶️ Watch the demo on YouTube](https://www.youtube.com/watch?v=YJsCVBFSbLg)
 
 ## How it works
 
