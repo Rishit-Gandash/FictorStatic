@@ -8,7 +8,7 @@ This project was build using the course from boot.dev.
 
 ## Demonstration Video
 
-![Demonstration](./demonstration.mp4)
+![Demonstration](https://github.com/Rishit-Gandash/FictorStatic/blob/main/demonstration.mp4)
 
 ## How it works
 
