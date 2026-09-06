@@ -2,9 +2,9 @@
 
 ![Da Vinci's Man](/images/davinci-man.jpg)
 
-## Notes on the self
+### Notes on the self
 
-### The self is a multiplicity, but must be corporeally grounded.
+#### The self is a multiplicity, but must be corporeally grounded.
 
 _Coming soon_
 
