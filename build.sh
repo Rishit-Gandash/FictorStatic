@@ -1,1 +1,1 @@
-python3 src/main.py "/PythonStatic/"
+python3 src/main.py "/FictorStatic/"

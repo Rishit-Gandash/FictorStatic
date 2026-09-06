@@ -2,7 +2,7 @@
 
 _Fictor - An artist who models or forms statues and reliefs in any malleable material. Source: [wiktionary](https://en.wiktionary.org/wiki/fictor)_
 
-A lightweight static site generator written in Python. It reads user-provided markdown files (in `content/`), and converts them to HTML pages (in `docs/`) and outputs a ready-to-serve static site — with no external dependencies beyond Python. Website deployed [here](https://rishit-gandash.github.io/PythonStatic/) via github pages.
+A lightweight static site generator written in Python. It reads user-provided markdown files (in `content/`), and converts them to HTML pages (in `docs/`) and outputs a ready-to-serve static site — with no external dependencies beyond Python. Website deployed [here](https://rishit-gandash.github.io/FictorStatic/) via github pages.
 
 This project was build using the course from boot.dev.
 
